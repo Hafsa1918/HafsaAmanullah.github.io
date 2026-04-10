@@ -36,9 +36,9 @@ I am a passionate and dedicated researcher with a strong enthusiasm for teaching
 * *Job responsibilities:*
    * Delivering lectures for courses including Embedded Electronics, Programming, and Instrumentation & Control 
 * Designing laboratory experiments and manuals for Instrumentation & Control and Embedded Electronics
-* •	Supervised course project: 
-o	Integration of Single cycle RISC-V processor with configurable UART module using Memory-mapped I/O technique. 
-o	Integration of Single cycle RISC-V processor with I2C module using Memory-mapped I/O technique.
+* Supervised course project:
+  - Integration of Single cycle RISC-V processor with configurable UART module using Memory-mapped I/O technique.
+  - Integration of Single cycle RISC-V processor with I2C module using Memory-mapped I/O technique.
 
 * Supervising Final Year Design Projects such as SilentEcho (Sign Language to Speech), Autonomous Emergency Response and Observation Drone and NLP Accelerators
   

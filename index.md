@@ -32,10 +32,29 @@ I am a passionate and dedicated researcher with a strong enthusiasm for teaching
 
 ## Professional Experience
 ### Lecturer (Electronic Engineering)
-**NED University of Engineering and Technology** | [cite_start]*May 2022 – Present* 
-* Delivering lectures for courses including Embedded Electronics, Programming, and Instrumentation 
-* Designing laboratory experiments and manuals for Instrumentation & Control and Embedded Electronics 
-* Supervising Final Year Design Projects such as SilentEcho (Sign Language to Speech) and NLP Accelerators [cite: 41, 42]
+**NED University of Engineering and Technology** | *May 2022 – Present* 
+* *Job responsibilities:*
+   * Delivering lectures for courses including Embedded Electronics, Programming, and Instrumentation & Control 
+* Designing laboratory experiments and manuals for Instrumentation & Control and Embedded Electronics
+* •	Supervised course project: 
+o	Integration of Single cycle RISC-V processor with configurable UART module using Memory-mapped I/O technique. 
+o	Integration of Single cycle RISC-V processor with I2C module using Memory-mapped I/O technique.
+
+* Supervising Final Year Design Projects such as SilentEcho (Sign Language to Speech), Autonomous Emergency Response and Observation Drone and NLP Accelerators
+* •	Supervised Final Year Design Project
+o	NLP Accelerator (in-progress)
+o	SilentEcho: A Smart Glove for real-time sign language to speech conversion using embedded machine learning (in-progress)
+o	A.E.R.O Drone: Autonomous Emergency Response and Observation Drone (in progress)
+o	RISC-V based GP-GPU implementation 
+o	Sign-Speech Recognition System using Machine Learning Algorithms 
+o	Efficient Seal Integrity Detection in Sterile Packaging Using FPGA and Embedded AI
+o	EEG-based Major Depressive Disorder (MDD) Detection using Machine Learning
+o	EEG Based Affective Computing
+o	Universal Verification Methodology (UVM) for RISC-V processor
+o	Smart Collar for Quadrupeds 
+o	Pedestrian Detection using Embedded Platform
+o	Voice Controlled Smart Car
+
 
 ### Senior Research Assistant
 **Habib University** | [cite_start]*Sept 2019 – May 2022* [cite: 56, 57]

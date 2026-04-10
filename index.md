@@ -4,14 +4,14 @@ title: Hafsa Amanullah | AI & Embedded Systems Researcher
 ---
 
 # Hafsa Amanullah
-**University Lecturer | PhD Candidate | Researcher in AI & Embedded Systems**
+**Electronic Engineer | Passionate Researcher | AI Enthusiast | FPGA Freak | Dedicated Lecturer | Instructor**
 
 [LinkedIn](https://www.linkedin.com/in/hafsa-amanullah-8b343345) | [GitHub](https://github.com/Hafsa1918) | [Hugging Face](https://huggingface.co/Hafsa1918)
-
+[Call](+92 301 2430439) [E-mail](hafsa.amanullah94@gmail.com)
 ---
 
 ## Profile
-[cite_start]I am a passionate and dedicated researcher with a strong enthusiasm for teaching and a drive to excel in the field of embedded systems and artificial intelligence. [cite_start]I am actively seeking PhD opportunities abroad to contribute to cutting-edge research and make a meaningful impact in the academic journey.
+I am a passionate and dedicated researcher with a strong enthusiasm for teaching and a drive to excel in the field of embedded systems and artificial intelligence. As a motivated individual, I am actively seeking PhD opportunities abroad to further extend my knowledge and contribute to cutting-edge research in this exciting field. With a commitment to continuous learning and a desire to make a meaningful impact, I am eager to embark on this next chapter of my academic journey
 
 ## Research Interests
 * [cite_start]**Generative AI & LLMs** [cite: 29]

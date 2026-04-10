@@ -4,7 +4,7 @@ title: Hafsa Amanullah | AI & Embedded Systems Researcher
 ---
 
 # Hafsa Amanullah
-**Electronic Engineer | Passionate Researcher | AI Enthusiast | FPGA Freak | Dedicated Lecturer **
+Electronic Engineer | Passionate Researcher | AI Enthusiast | FPGA Freak | Dedicated Lecturer 
 
 [LinkedIn](https://www.linkedin.com/in/hafsa-amanullah-8b343345) | [GitHub](https://github.com/Hafsa1918) | [Hugging Face](https://huggingface.co/Hafsa1918) | [E-mail](hafsa.amanullah94@gmail.com)
 

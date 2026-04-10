@@ -41,10 +41,8 @@ o	Integration of Single cycle RISC-V processor with configurable UART module usi
 o	Integration of Single cycle RISC-V processor with I2C module using Memory-mapped I/O technique.
 
 * Supervising Final Year Design Projects such as SilentEcho (Sign Language to Speech), Autonomous Emergency Response and Observation Drone and NLP Accelerators
-* •	Supervised Final Year Design Project
-o	NLP Accelerator (in-progress)
-o	SilentEcho: A Smart Glove for real-time sign language to speech conversion using embedded machine learning (in-progress)
-o	A.E.R.O Drone: Autonomous Emergency Response and Observation Drone (in progress)
+  
+* Supervised Final Year Design Project
 o	RISC-V based GP-GPU implementation 
 o	Sign-Speech Recognition System using Machine Learning Algorithms 
 o	Efficient Seal Integrity Detection in Sterile Packaging Using FPGA and Embedded AI
@@ -57,26 +55,31 @@ o	Voice Controlled Smart Car
 
 
 ### Senior Research Assistant
-**Habib University** | [cite_start]*Sept 2019 – May 2022* [cite: 56, 57]
-* [cite_start]Designed lab experiments for Microcontrollers, Digital Logic Design, and Computer Architecture [cite: 59]
-* [cite_start]Conducted and improved labs of Electric Circuit Analysis and Computer Architecture [cite: 61]
+**Habib University** | *Sept 2019 – May 2022* 
+* Designed lab experiments for Microcontrollers, Digital Logic Design, and Computer Architecture 
+* Conducted and improved labs of Electric Circuit Analysis and Computer Architecture
+
+### Research Assistant
+**Habib University** | *Sept 2017 – Aug 2019* 
+* Designed lab experiments and prepared lab manuals of Introduction to Electrical and Computer Engineering lab
+* Conducted and improved labs of Principals of Feedback Control, Signal and Systems, Microcontrollers and Interfacing
 
 ## Featured Projects
-* [cite_start]**Sukoon-e-Zehn AI:** A multi-agent mental wellness application developed during Hackathon 2026 that educates, chats, and alerts users [cite: 116]
-* [cite_start]**SilentEcho:** A smart glove for real-time sign language to speech conversion using embedded machine learning [cite: 42]
-* [cite_start]**RISC-V Processor:** Integration of single-cycle RISC-V with configurable UART and I2C modules [cite: 36, 37]
+* **Sukoon-e-Zehn AI:** A multi-agent mental wellness application developed during Hackathon 2026 that educates, chats, and alerts users 
+* **SilentEcho:** A smart glove for real-time sign language to speech conversion using embedded machine learning 
+* **RISC-V Processor:** Integration of single-cycle RISC-V with configurable UART and I2C modules 
 
 ## Selected Publications
-1. **Advances in EEG-based detection of Major Depressive Disorder...** | [cite_start]*Computers in Biology and Medicine*, 2025 [cite: 143]
-2. **Small Traffic Sign Detection in Big Images: Searching Needle in a Hay** | [cite_start]*IEEE Access*, 2022 [cite: 144, 145]
-3. **Detection of Small Size Traffic Signs Using Regressive Anchor Box Selection...** | [cite_start]*Applied Sciences MDPI*, 2021 [cite: 146, 147]
+1. **Advances in EEG-based detection of Major Depressive Disorder...** | *Computers in Biology and Medicine*, 2025 
+2. **Small Traffic Sign Detection in Big Images: Searching Needle in a Hay** | *IEEE Access*, 2022 
+3. **Detection of Small Size Traffic Signs Using Regressive Anchor Box Selection...** | *Applied Sciences MDPI*, 2021 
 
 ## Technical Skills
-* [cite_start]**Languages:** Verilog HDL, Python, C, Assembly, MATLAB, LabVIEW [cite: 99, 100, 101, 102, 103, 105]
-* [cite_start]**Embedded & Hardware:** FPGA (Spartan-6, Artix-7, PYNQ Z1), ARM Cortex M3 (STM32), Raspberry Pi [cite: 113]
-* [cite_start]**Simulation:** Orcad pSpice, Multisim, Proteus [cite: 111, 112]
+* **Languages:** Verilog HDL, Python, C, Assembly, MATLAB, LabVIEW 
+* **Embedded & Hardware:** FPGA (Spartan-6, Artix-7, PYNQ Z1), ARM Cortex M3 (STM32), Raspberry Pi
+* **Simulation:** Orcad pSpice, Multisim, Proteus 
 
 ## Awards & Honors
-* **Most Diligent RA Award** | [cite_start]Habib University (2021) [cite: 119]
-* **Winner** | [cite_start]"The Connection Battle", NED Telecom Day (2016) [cite: 120]
-* **Best Idea Award** | [cite_start]National Robosprint (2015) [cite: 122]
+* **Most Diligent RA Award** | Habib University (2021) 
+* **Winner** | "The Connection Battle", NED Telecom Day (2016) 
+* **Best Idea Award** | National Robosprint (2015) 

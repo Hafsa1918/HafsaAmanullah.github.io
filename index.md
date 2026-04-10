@@ -43,15 +43,15 @@ I am a passionate and dedicated researcher with a strong enthusiasm for teaching
 * Supervising Final Year Design Projects such as SilentEcho (Sign Language to Speech), Autonomous Emergency Response and Observation Drone and NLP Accelerators
   
 * Supervised Final Year Design Project
-o	RISC-V based GP-GPU implementation 
-o	Sign-Speech Recognition System using Machine Learning Algorithms 
-o	Efficient Seal Integrity Detection in Sterile Packaging Using FPGA and Embedded AI
-o	EEG-based Major Depressive Disorder (MDD) Detection using Machine Learning
-o	EEG Based Affective Computing
-o	Universal Verification Methodology (UVM) for RISC-V processor
-o	Smart Collar for Quadrupeds 
-o	Pedestrian Detection using Embedded Platform
-o	Voice Controlled Smart Car
+  - RISC-V based GP-GPU implementation
+  - Sign-Speech Recognition System using Machine Learning Algorithms
+  - Efficient Seal Integrity Detection in Sterile Packaging Using FPGA and Embedded AI
+  - EEG-based Major Depressive Disorder (MDD) Detection using Machine Learning
+  - EEG Based Affective Computing
+  - Universal Verification Methodology (UVM) for RISC-V processor
+  - Smart Collar for Quadrupeds
+  - Pedestrian Detection using Embedded Platform
+  - Voice Controlled Smart Car
 
 
 ### Senior Research Assistant

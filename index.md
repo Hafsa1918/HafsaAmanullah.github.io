@@ -4,27 +4,27 @@ title: Hafsa Amanullah | AI & Embedded Systems Researcher
 ---
 
 # Hafsa Amanullah
-**Electronic Engineer | Passionate Researcher | AI Enthusiast | FPGA Freak | Dedicated Lecturer | Instructor**
+**Electronic Engineer | Passionate Researcher | AI Enthusiast | FPGA Freak | Dedicated Lecturer **
 
-[LinkedIn](https://www.linkedin.com/in/hafsa-amanullah-8b343345) | [GitHub](https://github.com/Hafsa1918) | [Hugging Face](https://huggingface.co/Hafsa1918) 
-| [E-mail](hafsa.amanullah94@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hafsa-amanullah-8b343345) | [GitHub](https://github.com/Hafsa1918) | [Hugging Face](https://huggingface.co/Hafsa1918) | [E-mail](hafsa.amanullah94@gmail.com)
+
 ---
 
 ## Profile
 I am a passionate and dedicated researcher with a strong enthusiasm for teaching and a drive to excel in the field of embedded systems and artificial intelligence. As a motivated individual, I am actively seeking PhD opportunities abroad to further extend my knowledge and contribute to cutting-edge research in this exciting field. With a commitment to continuous learning and a desire to make a meaningful impact, I am eager to embark on this next chapter of my academic journey
 
 ## Research Interests
-* [cite_start]**Generative AI & LLMs** [cite: 29]
-* [cite_start]**Multi-Modal Sensing & Affective Computing** [cite: 29]
-* [cite_start]**Embedded Systems & Accelerated Deep Learning** [cite: 29]
+* **Generative AI & LLMs**
+* **Multi-Modal Sensing & Affective Computing** 
+* **Embedded Systems & Accelerated Deep Learning** 
 * **Hardware Security for Approximate Computing**
 
 ## Education
 * **Master of Engineering (Industrial Electronics)**
-  * NED University of Engineering and Technology | [cite_start]CGPA: 4.00/4.00 [cite: 13, 14]
-  * [cite_start]*Thesis:* Traffic Sign Detection and Recognition Using CNN (YOLOv3) [cite: 15]
+  * NED University of Engineering and Technology | CGPA: 4.00/4.00
+  * *Thesis:* Traffic Sign Detection and Recognition Using CNN (YOLOv3) 
 * **Bachelor of Engineering (Electronics)**
-  * NED University of Engineering and Technology | [cite_start]CGPA: 3.85/4.00 (Second Position) [cite: 19, 20, 21]
+  * NED University of Engineering and Technology | CGPA: 3.85/4.00 (Second Position)
 
 ## Professional Experience
 ### Lecturer (Electronic Engineering)

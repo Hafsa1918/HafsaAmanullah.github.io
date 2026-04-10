@@ -34,8 +34,8 @@ I am a passionate and dedicated researcher with a strong enthusiasm for teaching
 ### Lecturer (Electronic Engineering)
 **NED University of Engineering and Technology** | *May 2022 – Present* 
 * *Job responsibilities:*
-   * Delivering lectures for courses including Embedded Electronics, Programming, and Instrumentation & Control 
-* Designing laboratory experiments and manuals for Instrumentation & Control and Embedded Electronics
+   * Delivering lectures for courses including Embedded Electronics, Programming, and Instrumentation & Control
+   * Designed laboratory experiments and manuals for Instrumentation & Control, Embedded Electronics and Electronic Instrumentation
 * Supervised course project:
   - Integration of Single cycle RISC-V processor with configurable UART module using Memory-mapped I/O technique.
   - Integration of Single cycle RISC-V processor with I2C module using Memory-mapped I/O technique.
